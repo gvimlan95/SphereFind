@@ -1,0 +1,13 @@
+PODS:
+  - Bond (4.0.0-beta3)
+  - GoogleMaps (1.10.2)
+
+DEPENDENCIES:
+  - Bond (= 4.0.0-beta3)
+  - GoogleMaps
+
+SPEC CHECKSUMS:
+  Bond: bcc6816bb5b22c907197d5b4931cbcab5545d0a4
+  GoogleMaps: 5c92e599b07b0a2a9b367c5dd128edc629bddfea
+
+COCOAPODS: 0.38.2
